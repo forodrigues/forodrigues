@@ -28,7 +28,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://github.com/forodrigues24">
+  <a href="https://github.com/forodrigues">
     <img
       src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
